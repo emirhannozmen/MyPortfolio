@@ -9,3 +9,4 @@ Fornt-end
 Html
 Css
 Bootstrap
+Gereksinimler
