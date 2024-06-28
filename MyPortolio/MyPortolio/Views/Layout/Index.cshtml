@@ -1,0 +1,60 @@
+﻿@{
+	Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+@await Component.InvokeAsync("_LayoutHeadComponentPartial")
+
+<body>
+	<div class="wrapper">
+
+		@await Component.InvokeAsync("_LayoutNavbarComponentPartial")
+
+		@await Component.InvokeAsync("_LayoutSidebarComponentPartial")
+
+		@* @await Component.InvokeAsync("_LayoutTaskComponentPartial") *@
+
+
+		<div class="main-panel">
+
+			@RenderBody()
+
+			<footer class="footer">
+
+				<div class="container-fluid">
+					<nav class="pull-left">
+						@* <ul class="nav">
+						<li class="nav-item">
+						<a class="nav-link" href="http://www.themekita.com">
+						ThemeKita
+						</a>
+						</li>
+						<li class="nav-item">
+						<a class="nav-link" href="#">
+						Help
+						</a>
+						</li>
+						<li class="nav-item">
+						<a class="nav-link" href="https://themewagon.com/license/#free-item">
+						Licenses
+						</a>
+						</li>
+						</ul> *@
+					</nav>
+					<div class="copyright ml-auto">
+						@DateTime.Now.Year, made with by <a href="http://www.emirhanozmen.com">EMİRHAN ÖZMEN</a>
+					</div>
+				</div>
+			</footer>
+		</div>
+
+	</div>
+
+	</div>
+
+</body>
+@await Component.InvokeAsync("_LayoutScriptComponentPartial")
+
+
+</html>

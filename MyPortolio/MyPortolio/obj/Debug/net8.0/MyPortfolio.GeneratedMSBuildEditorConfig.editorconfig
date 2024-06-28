@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyPortfolio
+build_property.RootNamespace = MyPortfolio
+build_property.ProjectDir = C:\Users\Emirhan\source\repos\MyPortolio\MyPortolio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Emirhan\source\repos\MyPortolio\MyPortolio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/DefaultController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Experience/CreateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxDcmVhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Experience/ExperienceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxFeHBlcmllbmNlTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Experience/UpdateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxVcGRhdGVFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Layout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Message/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Message/MessageDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxNZXNzYWdlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_ContactComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_ExperienceComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0V4cGVyaWVuY2VDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_FeatureComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_FooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_HeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_LayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_LayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_LayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_NavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_PortfolioComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcnRmb2xpb0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_SkillComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NraWxsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_StatisticComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Components/_TestimonialComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Statistic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/ToDoList/CreateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcQ3JlYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/ToDoList/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/ToDoList/UpdateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RcVXBkYXRlVG9Eb0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Emirhan/source/repos/MyPortolio/MyPortolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fn2rs6u0d8

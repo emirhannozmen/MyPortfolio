@@ -1,0 +1,937 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\EMİRHAN ÖZMEN.pdf",
+      "PackagePath": "staticwebassets\\EMİRHAN ÖZMEN.pdf"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\LICENSE",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\README.md",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css.map",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.min.css",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\css\\ready.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.eot",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.eot"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.svg",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.svg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.ttf",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.woff",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.woff2",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\fonts\\line-awesome.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\img\\menu.png",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\img\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\img\\menu2.png",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\img\\menu2.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\img\\profile.jpg",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\img\\profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\img\\profile2.jpg",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\img\\profile2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\jquery.3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\jquery.3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\bootstrap-notify\\bootstrap-notify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\bootstrap-toggle\\bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chart-circle\\circles.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chart-circle\\circles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chartist\\chartist.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chartist\\chartist.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\chartist\\plugin\\chartist-plugin-tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\jquery.mapael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\france_departments.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\usa_states.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_mercator.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-mapael\\maps\\world_countries_miller.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-scrollbar\\jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\plugin\\jquery-ui-1.12.1.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\ready.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\ready.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\js\\ready.min.js",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\js\\ready.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_background.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_components.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_layouts.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_line-awesome.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_line-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_outlinefocus.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_outlinefocus.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_plugins.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_responsive.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_typography.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_variables.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_alerts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_charts.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_maps.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_modals.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navpills.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navpills.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navsearch.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_navsearch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_paginations.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_paginations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_sliders.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_sliders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_jqueryscrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_jqueryui.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_jqueryui.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_toggle.scss",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\assets\\sass\\ready\\plugins\\_toggle.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\components.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\components.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\forms.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\forms.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\icons.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\index.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\notifications.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\tables.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\Ready-Bootstrap-Dashboard-master\\typography.html",
+      "PackagePath": "staticwebassets\\Ready-Bootstrap-Dashboard-master\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\blog-single.html",
+      "PackagePath": "staticwebassets\\hola-master\\blog-single.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\blog.html",
+      "PackagePath": "staticwebassets\\hola-master\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\base.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\fonts.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\css\\iconmonstr-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.eot"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\css\\iconic\\fonts\\iconmonstr-iconic-font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\main.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\hola-master\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\favicon.ico",
+      "PackagePath": "staticwebassets\\hola-master\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-italic-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\librebaskerville\\librebaskerville-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-black-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extrabold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-extralight-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-light-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-medium-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-semibold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff2",
+      "PackagePath": "staticwebassets\\hola-master\\fonts\\montserrat\\montserrat-thin-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\avatars\\user-01.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\avatars\\user-02.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\avatars\\user-03.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\avatars\\user-04.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\avatars\\user-05.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\avatars\\user-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\blog\\blog-bg-01.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\blog\\blog-bg-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\blog\\blog-bg-02.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\blog\\blog-bg-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\count-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\count-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\logo.png",
+      "PackagePath": "staticwebassets\\hola-master\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.png",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\default-skin.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\photoswipe\\default-skin.svg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\default-skin.svg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\photoswipe\\preloader.gif",
+      "PackagePath": "staticwebassets\\hola-master\\images\\photoswipe\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\beetle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\beetle@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\beetle@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-beetle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-beetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-bicycle.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-bicycle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-liberty.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-lighthouse.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-minimalismo.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-salad.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-shutterbug.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-skaterboy.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\gallery\\g-woodcraft.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\gallery\\g-woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\liberty.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\liberty.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\liberty@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\liberty@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\lighthouse.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\lighthouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\lighthouse@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\lighthouse@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\minimalismo.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\minimalismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\minimalismo@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\minimalismo@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\salad.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\salad@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\salad@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\shutterbug.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\shutterbug.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\shutterbug@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\shutterbug@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\skaterboy.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\skaterboy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\skaterboy@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\skaterboy@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\woodcraft.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\woodcraft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\portfolio\\woodcraft@2x.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\portfolio\\woodcraft@2x.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\sample-image.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\wheel-1000.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-1000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\wheel-2000.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-2000.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\images\\wheel-500.jpg",
+      "PackagePath": "staticwebassets\\hola-master\\images\\wheel-500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\inc\\sendEmail.php",
+      "PackagePath": "staticwebassets\\hola-master\\inc\\sendEmail.php"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\index.html",
+      "PackagePath": "staticwebassets\\hola-master\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\js\\main.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\js\\pace.min.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\hola-master\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\readme.txt",
+      "PackagePath": "staticwebassets\\hola-master\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\hola-master\\styles.html",
+      "PackagePath": "staticwebassets\\hola-master\\styles.html"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan\\source\\repos\\MyPortolio\\MyPortolio\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
