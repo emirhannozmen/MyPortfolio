@@ -19,11 +19,10 @@ Clon
 $ git clone https://github.com/emirhannozmen/MyPortfolio
 
 
-
-https://resmim.net/cdn/2024/06/28/WS9cMR.png
-https://resmim.net/cdn/2024/06/28/WS9Ftn.png
-https://resmim.net/cdn/2024/06/28/WS9vnb.png
-https://resmim.net/cdn/2024/06/28/WSGSNZ.png
-https://resmim.net/cdn/2024/06/28/WS9zED.png
+![pictures](https://resmim.net/cdn/2024/06/28/WS9cMR.png)
+![](https://resmim.net/cdn/2024/06/28/WS9Ftn.png))
+![](https://resmim.net/cdn/2024/06/28/WS9vnb.png)
+![](https://resmim.net/cdn/2024/06/28/WSGSNZ.png)
+![](https://resmim.net/cdn/2024/06/28/WS9zED.png)
 
 2024 © Emirhan Özmen
