@@ -1,28 +1,32 @@
-# Bu proje Murat Yücedağ'ın udemyde ki eğitiminleri bulunan 20 saate yakın portfolio projesidir. Bir dinamik portfolio sitesidir. Geliştirme yapılırken code first yaklaşımı ile geliştirilmiştir. Proje, portfolio için gereken temel gereksimleri karşılamaktadır. Bu proje, kişisel portföyünüzü sergilemek için tasarlanmış bir web uygulamasıdır.
-# Kullanılan Teknolojiler
-* Back-end
-* C#
-* Asp.net (mvc)
-* MSSEL
-* Code First
-* Fornt-end
-* Html
-* Css
-* Bootstrap
-# Gereksinimler
- * .Net Core SDK Microsoft SQL Server
+# 📌 My Portfolio | ASP.NET MVC  
 
+Bu proje, **Murat Yücedağ**'ın Udemy'deki 20 saate yakın süren **Portföy Projesi** eğitimini temel alarak geliştirilmiştir.  
+**Code First** yaklaşımı kullanılarak oluşturulmuş **dinamik bir portföy web uygulamasıdır** ve kişisel portföyünüzü sergilemek için tasarlanmıştır.  
+## 🛠 Kullanılan Teknolojiler  
 
+### 💻 **Back-End** 
+- **C#**  
+- **ASP.NET MVC**  
+- **MSSQL**
+- **LINQ** 
+- **Entity Framework (Code First Yaklaşımı)**  
 
+### 🔹 **Front-End**  
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap**  
 
-Clon
-$ git clone https://github.com/emirhannozmen/MyPortfolio
+---
 
+## 📌 Gereksinimler  
+Bu projeyi çalıştırmak için aşağıdaki gereksinimlere ihtiyacınız vardır:  
+- **.NET Core SDK**  
+- **Microsoft SQL Server**  
+
+---
 
 ![pictures](https://resmim.net/cdn/2024/06/28/WS9cMR.png)
 ![](https://resmim.net/cdn/2024/06/28/WS9Ftn.png))
 ![](https://resmim.net/cdn/2024/06/28/WS9vnb.png)
 ![](https://resmim.net/cdn/2024/06/28/WSGSNZ.png)
 ![](https://resmim.net/cdn/2024/06/28/WS9zED.png)
-
-2024 © Emirhan Özmen
